@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
 | -------------  | --- |
 | :sparkles: Nome      | **Jogo-Adivinha-C**
-| :label: Tecnologias  | C (tecnologias utilizadas)
+| :label: Tecnologia | C (tecnologias utilizadas)
 | :rocket: URL         | https://cursos.alura.com.br/user/Leandroandrey/course/introducao-a-programacao-com-c-parte-1/certificate
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
